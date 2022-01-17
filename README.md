@@ -15,14 +15,13 @@ Im Rahmen dieser Machbarkeitsstudie sind Ansätze zur Berechnung, Abfrage, Bedie
 - Interessengruppen wurden befragt und der Markt wurde analysiert.
 
 
-<style>
-  table#details td {
-    border: none;
-  }
-</style>
-<table id="details"><td>
 
 # Verbundkoordinator
+
+<figure style="float:right">
+  <img src="assets/images/moin-map.png" width="500px">
+  <figcaption>Symbolbild: Verkehrswege in Europa</figcaption>
+</figure>
 
 [Institut für Angewandte Informatik (InfAI) e.V.](https://www.infai.org)  
 An-Institut an der Universität Leipzig  
@@ -43,14 +42,6 @@ Dr. Michael Martin
 Tel.: 0341  229037 – 51  
 E-Mail: martin@infai.org  
 
-</td><td valign="top" style="padding: 40px">
-
-<figure>
-  <img src="assets/images/moin-map.png" width="500px">
-  <figcaption>Symbolbild: Verkehrswege in Europa</figcaption>
-</figure>
-
-</table>
 
 
 
