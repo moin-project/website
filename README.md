@@ -15,14 +15,10 @@ Im Rahmen dieser Machbarkeitsstudie sind Ansätze zur Berechnung, Abfrage, Bedie
 - Interessengruppen wurden befragt und der Markt wurde analysiert.
 
 
+![](assets/images/moin-map.png)  
+*Symbolbild: Verkehrswege in Europa*
 
 # Verbundkoordinator
-
-<figure style="float:right">
-  <img src="assets/images/moin-map.png" width="500px">
-  <figcaption>Symbolbild: Verkehrswege in Europa</figcaption>
-</figure>
-
 [Institut für Angewandte Informatik (InfAI) e.V.](https://www.infai.org)  
 An-Institut an der Universität Leipzig  
 Goerdelerring 9 | 04109 Leipzig  
