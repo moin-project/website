@@ -14,7 +14,13 @@ Im Rahmen dieser Machbarkeitsstudie sind Ansätze zur Berechnung, Abfrage, Bedie
 - Eine prototypisch geschaffene API und die Integrationsfähigkeit der Daten in potentielle Anwendungen wurde untersucht.
 - Interessengruppen wurden befragt und der Markt wurde analysiert.
 
-<table style="border: none"><td>
+
+<style>
+  table#details td {
+    border: none;
+  }
+</style>
+<table id="details"><td>
 
 # Verbundkoordinator
 
