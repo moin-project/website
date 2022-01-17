@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/moin-project/website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# MoIn - Machbarkeitsstudie zur Erstellung eines bundesweiten Mobilitätsindex
 
-### Markdown
+Obgleich Erreichbarkeit zu den wichtigsten Standortfaktoren für Bürger*innen und Unternehmen gehört, gibt es in Deutschland keine Quelle, die sie umfassend und flächendeckend bewertet. Sie setzt sich aus vielen Qualitätsmerkmalen (Zeit, Frequenz, Kosten etc.) über diverse Verkehrsmittel und Modalketten hinweg zusammen. Das Ziel von MoIn war die konzeptuelle Entwicklung eines bundesweiten Mobilitätsindexes und eine Aussage über dessen technische und ökonomische Umsetzbarkeit. Für die Berechnung und Modellierung wurden Quelldaten zu einem Wissengraphen konvertiert, semantifiziert, integriert sowie die Berechnung des Indexes für verschiedene Verkehrsträger und einer Auswahl an Kommunen durchgeführt. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Ergebnisse und Wirkung
 
-```markdown
-Syntax highlighted code block
+Im Rahmen dieser Machbarkeitsstudie sind Ansätze zur Berechnung, Abfrage, Bedienbarkeit und Visualisierung erfolgreich untersucht worden. Im Ergebnis ist folgendes zu benennen:
+- Es wurden die 100 größten deutschen Kommunen und deren vom Verkehrsträger abhängige Verbindungen untereinander zu einem Wissensgraphen konvertiert und analysiert (ca. 220K Informationen unmittelbar, 2M Informationen mittelbar).
+- Auf Basis der Datenauswahl wurde die technische Realisierbarkeit des Indexes für alle Kommunen Deutschlands abgeleitet. Konzepte zum Umgang mit heterogener Datenqualität resp. regionalen Gegebenheiten wurden hierbei mitbetrachtet (z.B. Kommunen ohne Bahnhof oder Flughafen).
+- Infrastrukturveränderungen führen zu Änderungen an Daten. Konzepte zur Verarbeitung der Datenänderungen wurden mit bedacht.  
+- Ein Web-Demonstrator wurde geschaffen und diverse Visualisierungen wurden erprobt. 
+- Eine prototypisch geschaffene API und die Integrationsfähigkeit der Daten in potentielle Anwendungen wurde untersucht.
+- Interessengruppen wurden befragt und der Markt wurde analysiert.
 
-# Header 1
-## Header 2
-### Header 3
+<table><td>
 
-- Bulleted
-- List
+# Verbundkoordinator
 
-1. Numbered
-2. List
+[Institut für Angewandte Informatik (InfAI) e.V.](https://www.infai.org)  
+An-Institut an der Universität Leipzig  
+Goerdelerring 9 | 04109 Leipzig  
 
-**Bold** and _Italic_ and `Code` text
+# Projektlaufzeit
+12/2020 – 11/2021
 
-[Link](url) and ![Image](src)
-```
+# Projektpartner
+[CISS TDI GmbH](https://www.ciss.de/)  
+[LocosLab GmbH](https://www.locoslab.com)  
+[YellowMap AG](https://www.yellowmap.com/)  
+[Universität Duisburg-Essen](https://www.nes.uni-due.de)  
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+# Ansprechpartner
+Institut für ANgewandte Informatik e.V.  
+Dr. Michael Martin  
+Tel.: 0341  229037 – 51  
+E-Mail: martin@infai.org  
 
-### Jekyll Themes
+</td><td valign="top" style="padding: 40px">
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/moin-project/website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<figure>
+  <img src="assets/images/moin-map.png" width="500px">
+  <figcaption>Symbolbild: Verkehrswege in Europa</figcaption>
+</figure>
 
-### Support or Contact
+</table>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
