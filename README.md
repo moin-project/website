@@ -27,17 +27,12 @@ Goerdelerring 9 | 04109 Leipzig
 12/2020 – 11/2021
 
 # Projektpartner
+[Institut für Angewandte Informatik e.V.](https://infai.org/)
 [CISS TDI GmbH](https://www.ciss.de/)  
 [LocosLab GmbH](https://www.locoslab.com)  
 [YellowMap AG](https://www.yellowmap.com/)  
 [Universität Duisburg-Essen](https://www.nes.uni-due.de)  
 
 # Ansprechpartner
-Institut für ANgewandte Informatik e.V.  
-Dr. Michael Martin  
-Tel.: 0341  229037 – 51  
-E-Mail: martin@infai.org  
-
-
-
-
+Institut für Angewandte Informatik e.V.
+E-Mail: info@infai.org
